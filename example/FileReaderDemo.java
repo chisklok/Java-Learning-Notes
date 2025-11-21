@@ -1,0 +1,1 @@
+import java.io.*; public class FileReaderDemo{ public static void main(String[] a){}}

@@ -1,0 +1,1 @@
+import java.util.*; public class CollectionsDemo{ public static void main(String[] a){ ArrayList<String> l=new ArrayList<>(); l.add("Java"); System.out.println(l); }}
